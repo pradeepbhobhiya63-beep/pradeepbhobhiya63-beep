@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Pradeep Bhobhiya
+### I'm Pradeep Bhobhiya
 
 🎓 B.Tech CSE (Cyber Security) student @ JECRC University, Jaipur
 🔐 Into offensive security, CTFs & bug bounty hunting
